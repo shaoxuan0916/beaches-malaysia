@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Port Lligat Sans
+- Font Author: Copyright (c) 2011, Tipo (http://www.tipo.net.ar), with Reserved Font Name "Port Lligat Sans"
+- Font Source: http://fonts.gstatic.com/s/portlligatsans/v18/kmKmZrYrGBbdN1aV7Vokow6Lw4s4l7N0Tx4xEcQ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
