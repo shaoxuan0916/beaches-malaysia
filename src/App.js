@@ -12,6 +12,7 @@ import Gallery from './Components/Gallery'
 const App = () => {
   return (
     <>
+    hello
         <Navbar />
         <Hero />
         <Hero2 />
